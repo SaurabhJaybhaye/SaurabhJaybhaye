@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **saurabhjaybhayer01@gmial.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
