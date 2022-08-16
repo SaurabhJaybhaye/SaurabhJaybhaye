@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Jaybhaye</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-<p align="center"><img  width="600" src="https://www.schoolofit.co.za/wp-content/uploads/2018/06/How-to-become-a-web-developer.gif"/>
+<p align="center"><img  width="50%" src="https://www.schoolofit.co.za/wp-content/uploads/2018/06/How-to-become-a-web-developer.gif"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhjaybhaye&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhjaybhaye" /> </p>
 
