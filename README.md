@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Mongodb, Django**
 
-- 📫 How to reach me **saurabhjaybhayer01@gmial.com**
+- 📫 How to reach me **saurabhjaybhayer01@gmail.com**
 
 
 <p align="left">
