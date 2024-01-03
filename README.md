@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhjaybhaye&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhjaybhaye" /> </p>
 
 
-- 🔭 I’m currently planning to work on **Chatting App**
+- 🔭 I’m currently planning to work on **Expence Manager App**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **React, Mongodb, Django**
+- 💬 Ask me about **React, Mongodb**
 
 - 📫 How to reach me **saurabhjaybhayer01@gmail.com**
 
