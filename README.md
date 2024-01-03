@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently planning to work on **Expence Manager App**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React, Mongodb**
 
